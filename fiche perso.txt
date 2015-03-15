@@ -2,7 +2,7 @@ Creation de personnage
 
 
 
-Nom :
+Nom : 
 
 
 Age :
@@ -27,3 +27,6 @@ Arme de prédilection :
 
 
 Histoire :
+
+
+Orientation sexuelle:
