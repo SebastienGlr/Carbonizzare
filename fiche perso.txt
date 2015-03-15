@@ -1,0 +1,29 @@
+Creation de personnage
+
+
+
+Nom :
+
+
+Age :
+
+
+Sexe :
+
+
+Profession :
+
+
+Aime :
+
+
+N'aime pas :
+
+
+Caractére : 
+
+
+Arme de prédilection :
+
+
+Histoire :
