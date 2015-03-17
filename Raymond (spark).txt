@@ -1,0 +1,29 @@
+Creation de personnage
+
+
+
+Nom : Raymond
+
+
+Age : 46 ans
+
+
+Sexe : homme
+
+
+Profession : retraité
+
+
+Aime : la pêche
+
+
+N'aime pas : la technologie
+
+
+Caractére : patient mais têtu
+
+
+Arme de prédilection : canne a pêche
+
+
+Histoire :
